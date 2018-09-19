@@ -1,10 +1,13 @@
 # audio-player
 A simple circular HTML5 audio player. 
 
+[Audio-Player Look](PreviewImage.jpg?raw=true "Title")
+
 Features: 
 - Circular Progress Bar
 - Play/Pause-Button
 - clickable text below the player UI, starts audio from beginning
+- 30fps update frequency
 
 Usage:
 1. Reference the CSS and JavaScript file in your html: 
