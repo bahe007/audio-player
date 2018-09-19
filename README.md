@@ -1,7 +1,7 @@
 # audio-player
 A simple circular HTML5 audio player. 
 
-[Audio-Player Look](https://raw.githubusercontent.com/bahe007/audio-player/master/Preview.png)
+![Audio-Player Look](https://raw.githubusercontent.com/bahe007/audio-player/master/Preview.png)
 
 Features: 
 - Circular Progress Bar
